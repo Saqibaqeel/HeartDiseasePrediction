@@ -26,7 +26,7 @@ This project aims to develop a machine learning model for the early detection of
 - Python
 - Scikit-learn
 - Pandas
-- Jupyter Notebook (for development and analysis)
+- colab Notebook (for development and analysis)
 
 ## Getting Started
 To get started with this project, follow these steps:
